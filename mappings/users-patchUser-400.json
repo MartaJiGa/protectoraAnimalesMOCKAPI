@@ -1,0 +1,19 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "PATCH",
+    "url": "/user/4/email",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.email == 'emailEjemplo')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users-patchUser-400.json"
+  }
+}
