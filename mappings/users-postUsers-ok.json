@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/users",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.username == 'PedroPicapiedra3')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users-postUsers-ok.json"
+  }
+}

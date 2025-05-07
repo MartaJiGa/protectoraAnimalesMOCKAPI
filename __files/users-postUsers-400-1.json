@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "El nombre debe tener entre 3 y 30 caracteres"
+}

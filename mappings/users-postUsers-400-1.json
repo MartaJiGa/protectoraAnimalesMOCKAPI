@@ -1,0 +1,19 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "POST",
+    "url": "/users",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.name == '')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users-postUsers-400-1.json"
+  }
+}
