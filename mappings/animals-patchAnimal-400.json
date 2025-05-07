@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PATCH",
+    "url": "/animal/14/return"
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "animals-patchAnimal-400.json"
+  }
+}

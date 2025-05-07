@@ -1,0 +1,11 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/animal/.*"
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "animals-putAnimal-400.json"
+  }
+}
