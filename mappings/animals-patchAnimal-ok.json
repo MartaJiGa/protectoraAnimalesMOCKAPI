@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPattern": "/animal/.*/return"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "animals-patchAnimal-ok.json"
+  }
+}

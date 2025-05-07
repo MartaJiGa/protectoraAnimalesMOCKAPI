@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/location/10/animal/.*"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "animals-putAnimal-404.json"
+  }
+}

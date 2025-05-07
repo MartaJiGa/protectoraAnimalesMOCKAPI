@@ -1,7 +1,13 @@
 {
+  "priority": 1,
   "request": {
     "method": "PUT",
-    "url": "/animal/4"
+    "urlPattern": "/animal/.*",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.species =~ /^(Perro|Gato|Hurón|Conejo)$/)]"
+      }
+    ]
   },
   "response": {
     "status": 200,

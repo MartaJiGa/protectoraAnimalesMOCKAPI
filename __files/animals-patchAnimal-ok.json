@@ -1,0 +1,15 @@
+{
+    "id": 14,
+    "incorporationDate": "2025-01-14",
+    "name": "Coco",
+    "species": "Perro",
+    "age": 4,
+    "breed": "Chihuahua",
+    "size": "Pequeño",
+    "neutered": true,
+    "adopted": false,
+    "price": 148.95,
+    "description": "Simpático, enérgico y le gusta solo la comida blanda.",
+    "locationId": 4,
+    "locationCity": "Málaga"
+}
