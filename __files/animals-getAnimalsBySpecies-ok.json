@@ -1,0 +1,32 @@
+[
+  {
+    "id": 12,
+    "incorporationDate": "2025-01-14",
+    "name": "Oscar",
+    "species": "Gato",
+    "age": 9,
+    "breed": "Azul Ruso",
+    "size": "Mediano",
+    "neutered": true,
+    "adopted": false,
+    "price": 120.0,
+    "description": "Reservado, elegante y disfruta la tranquilidad del hogar.",
+    "locationId": 4,
+    "locationCity": "Málaga"
+  },
+  {
+    "id": 14,
+    "incorporationDate": null,
+    "name": "Chloe",
+    "species": "Gato",
+    "age": 4,
+    "breed": "Siames",
+    "size": "Mediano",
+    "neutered": true,
+    "adopted": false,
+    "price": 95.0,
+    "description": "Sociable, vocal y le gusta estar al sol.",
+    "locationId": 3,
+    "locationCity": "Valencia"
+  }
+]

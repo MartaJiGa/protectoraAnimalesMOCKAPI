@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "El nombre solo puede estar compuesto por letras y espacios"
+}

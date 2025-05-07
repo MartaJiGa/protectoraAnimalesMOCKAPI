@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/location/2/animals"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "internalServerError-500.json"
+  }
+}

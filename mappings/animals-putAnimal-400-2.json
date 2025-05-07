@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/location/6/animal/11",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.species == '')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "animals-putAnimal-400-2.json"
+  }
+}

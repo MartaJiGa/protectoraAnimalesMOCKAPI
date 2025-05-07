@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "La especie debe ser: Perro, Gato, Hurón o Conejo"
+}

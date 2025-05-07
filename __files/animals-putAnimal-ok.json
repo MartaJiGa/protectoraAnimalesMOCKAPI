@@ -1,0 +1,15 @@
+{
+  "id": 4,
+  "incorporationDate": "2025-01-15",
+  "name": "Petra",
+  "species": "Gato",
+  "age": 12,
+  "breed": "Azul Ruso",
+  "size": "Mediano",
+  "neutered": false,
+  "adopted": false,
+  "price": 186.49,
+  "description": "Le gusta estar con otros gatos y perros, pero no le gustan mucho los niños.",
+  "locationId": 4,
+  "locationCity": "Málaga"
+}
