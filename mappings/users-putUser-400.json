@@ -1,0 +1,19 @@
+{
+  "priority": 4,
+  "request": {
+    "method": "PUT",
+    "url": "/user/26",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.dateOfBirth == '2084-11-20')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users-putUser-400.json"
+  }
+}

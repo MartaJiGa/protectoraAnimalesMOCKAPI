@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "La fecha de nacimiento debe ser en el pasado"
+}
