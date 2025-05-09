@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "La ciudad solo puede estar compuesta por letras y espacios"
+}

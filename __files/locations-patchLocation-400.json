@@ -1,0 +1,5 @@
+{
+  "statusCode": 400,
+  "message": "Esta ubicación ya es la principal, por lo que no necesita cambiar.",
+  "validationErrors": null
+}
