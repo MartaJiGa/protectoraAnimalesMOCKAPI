@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/location/12",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$.city",
+        "contains": "Madrid.)"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "locations-putLocation-400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/location/32"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "locations-putLocation-404.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
