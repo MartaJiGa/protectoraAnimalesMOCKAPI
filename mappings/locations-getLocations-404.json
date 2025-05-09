@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/locations?zipCode=29004"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "locations-getLocations-404.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
