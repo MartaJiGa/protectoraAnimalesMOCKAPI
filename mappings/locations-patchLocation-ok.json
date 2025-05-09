@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/location/4/mainSite"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "locations-patchLocation-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

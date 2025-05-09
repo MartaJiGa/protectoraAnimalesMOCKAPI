@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/location/8/mainSite"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "locations-patchLocation-404.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
