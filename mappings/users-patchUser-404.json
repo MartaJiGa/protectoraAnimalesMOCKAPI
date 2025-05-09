@@ -1,0 +1,14 @@
+{
+  "priority": 3,
+  "request": {
+    "method": "PATCH",
+    "urlPattern": "/user/.*/email"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users-resourceNotFound-404.json"
+  }
+}

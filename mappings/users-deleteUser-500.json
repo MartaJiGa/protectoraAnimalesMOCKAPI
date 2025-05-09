@@ -1,0 +1,14 @@
+{
+  "priority": 3,
+  "request": {
+    "method": "DELETE",
+    "urlPattern": "/user/.*"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "internalServerError-500.json"
+  }
+}

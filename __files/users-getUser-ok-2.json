@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "PedroPicapiedra3",
+    "name": "Pedro",
+    "surname": "Roca",
+    "dateOfBirth": "1989-04-21",
+    "email": "pedroPicapiedra@ejemplo.com"
+  },
+  {
+    "id": 4,
+    "username": "Solano",
+    "name": "Pedro",
+    "surname": "Roca",
+    "dateOfBirth": "1989-04-21",
+    "email": "solano89@mail.org"
+  }
+]
