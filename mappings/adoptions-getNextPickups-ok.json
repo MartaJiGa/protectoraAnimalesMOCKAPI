@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/adoptions/pickups-next-two-weeks"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "adoptions-getNextPickups-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

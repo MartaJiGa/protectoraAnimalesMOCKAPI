@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "adoptionDate": "2025-01-15",
+    "takeAccessories": true,
+    "pickUpDate": "2025-01-20",
+    "pickUpTime": "14:30",
+    "animalId": 4,
+    "animalIncorporationDate": null,
+    "animalName": "Petra",
+    "animalSpecies": "Gato",
+    "animalLocationId": 1,
+    "animalLocationCity": "Gijón",
+    "userId": 2,
+    "userUsername": "LunaEstrella24",
+    "userEmail": "lunaaa@ejemplo.com"
+  },
+  {
+    "id": 6,
+    "adoptionDate": "2025-01-19",
+    "takeAccessories": true,
+    "pickUpDate": "2025-01-24",
+    "pickUpTime": "20:10",
+    "animalId": 49,
+    "animalIncorporationDate": "2025-01-19",
+    "animalName": "Coco",
+    "animalSpecies": "Perro",
+    "animalLocationId": 4,
+    "animalLocationCity": "Málaga",
+    "userId": 6,
+    "userUsername": "Vilma565",
+    "userEmail": "vilma565@ejemplo.com"
+  },
+  {
+    "id": 7,
+    "adoptionDate": "2025-01-28",
+    "takeAccessories": true,
+    "pickUpDate": "2025-01-30",
+    "pickUpTime": "20:10",
+    "animalId": 51,
+    "animalIncorporationDate": "2025-01-28",
+    "animalName": "El rey león",
+    "animalSpecies": "Gato",
+    "animalLocationId": 4,
+    "animalLocationCity": "Málaga",
+    "userId": 1,
+    "userUsername": "PedroPicapiedra3",
+    "userEmail": "pedroPicapiedra@ejemplo.com"
+  }
+]
