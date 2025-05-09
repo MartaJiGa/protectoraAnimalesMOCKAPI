@@ -1,0 +1,25 @@
+{
+  "priority": 3,
+  "request": {
+    "method": "POST",
+    "url": "/locations",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$.address"
+      },
+      {
+        "matchesJsonPath": "$.zipCode"
+      },
+      {
+        "matchesJsonPath": "$.city"
+      }
+    ]
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "locations-postLocations-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

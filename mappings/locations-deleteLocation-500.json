@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "DELETE",
+    "urlPattern": "/location/.*"
+  },
+  "response": {
+    "status": 500,
+    "bodyFileName": "internalServerError-500.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

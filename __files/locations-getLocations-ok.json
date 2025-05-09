@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "mainSite": true,
+    "address": "Avenida de Murcia, 75, 2.º G",
+    "zipCode": "17260",
+    "city": "Gijón",
+    "description": "Sede principal de la protectora."
+  },
+  {
+    "id": 2,
+    "mainSite": false,
+    "address": "Calle de los Olivos, 12, Bajo",
+    "zipCode": "28011",
+    "city": "Madrid",
+    "description": "Centro de adopciones y refugio temporal."
+  },
+  {
+    "id": 3,
+    "mainSite": true,
+    "address": "Plaza de la Libertad, 3, 1.º A",
+    "zipCode": "46015",
+    "city": "Valencia",
+    "description": "Oficina administrativa y punto de información."
+  },
+  {
+    "id": 4,
+    "mainSite": false,
+    "address": "Calle Rosaleda, 7",
+    "zipCode": "29004",
+    "city": "A Coruña",
+    "description": "Centro de atención veterinaria para animales rescatados."
+  },
+  {
+    "id": 5,
+    "mainSite": false,
+    "address": "Carretera Vieja de Burgos, s/n",
+    "zipCode": "28011",
+    "city": "Madrid",
+    "description": "Sede dedicada a la rehabilitación de animales."
+  }
+]
