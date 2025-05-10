@@ -5,7 +5,7 @@
   },
   "response": {
     "status": 404,
-    "bodyFileName": "locations-getLocations-404.json",
+    "bodyFileName": "locations-getLocationsByZipCode-404.json",
     "headers": {
       "Content-Type": "application/json"
     }
