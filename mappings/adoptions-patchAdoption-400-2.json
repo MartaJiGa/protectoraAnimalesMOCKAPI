@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPattern": "/adoption/2/pickUp",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.pickUpTime == '28:82')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "adoptions-patchAdoption-400-2.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
