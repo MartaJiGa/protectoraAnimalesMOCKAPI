@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/users?includeAdoptionsAndDonations=true"
+    "url": "/users?name=Pedro&surname=Roca"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "users-getUser-ok-3.json"
+    "bodyFileName": "users-getUsersByName&Surname-ok.json"
   }
 }
