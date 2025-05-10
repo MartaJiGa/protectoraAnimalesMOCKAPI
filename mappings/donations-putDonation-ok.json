@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/donation/3/user/6"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "donations-putDonation-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

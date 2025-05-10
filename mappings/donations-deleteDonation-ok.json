@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "DELETE",
+    "url": "/donation/5"
+  },
+  "response": {
+    "status": 204
+  }
+}

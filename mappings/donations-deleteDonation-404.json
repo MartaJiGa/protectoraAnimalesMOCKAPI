@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "DELETE",
+    "url": "/donation/38"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "donations-deleteDonation-404.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

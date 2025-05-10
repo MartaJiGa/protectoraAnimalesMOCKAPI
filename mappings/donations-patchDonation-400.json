@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/donation/4/splitPayment",
+    "bodyPatterns": [
+      { "matchesJsonPath": "$[?(@.splitPaymentQuantity > 12)]" }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "donations-patchDonation-400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

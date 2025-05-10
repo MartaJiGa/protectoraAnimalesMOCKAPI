@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/donations/user/2"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "donations-postDonations-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
