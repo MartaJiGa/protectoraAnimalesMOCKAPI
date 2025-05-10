@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "DELETE",
+    "urlPattern": "/adoption/2"
+  },
+  "response": {
+    "status": 204
+  }
+}
