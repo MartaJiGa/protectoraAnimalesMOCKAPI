@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "adoptionDate": "2025-01-15",
+  "takeAccessories": true,
+  "pickUpDate": "2025-08-21",
+  "pickUpTime": "15:45",
+  "animalId": 14,
+  "animalIncorporationDate": "2025-01-14",
+  "animalName": "Coco",
+  "animalSpecies": "Perro",
+  "animalLocationId": 4,
+  "animalLocationCity": "Málaga",
+  "userId": 2,
+  "userUsername": "LunaEstrella24",
+  "userEmail": "lunaaa@ejemplo.com"
+}

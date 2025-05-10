@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/adoption/4/user/2/animal/14"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "adoptions-putAdoption-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
