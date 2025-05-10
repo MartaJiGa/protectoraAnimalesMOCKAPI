@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2,
+    "donationDate": "2025-01-16",
+    "quantity": 150.0,
+    "paymentType": "Transferencia",
+    "splitPayment": true,
+    "splitPaymentQuantity": 3,
+    "userId": 5,
+    "userUsername": "PedroPicapiedra3",
+    "userEmail": "pedroPicapiedra@ejemplo.com"
+  },
+  {
+    "id": 3,
+    "donationDate": "2025-01-16",
+    "quantity": 50.25,
+    "paymentType": "Tarjeta",
+    "splitPayment": false,
+    "splitPaymentQuantity": 9,
+    "userId": 6,
+    "userUsername": "Vilma565",
+    "userEmail": "vilma565@ejemplo.com"
+  },
+  {
+    "id": 6,
+    "donationDate": "2025-01-22",
+    "quantity": 120.0,
+    "paymentType": "Tarjeta",
+    "splitPayment": true,
+    "splitPaymentQuantity": 6,
+    "userId": 2,
+    "userUsername": "LunaEstrella24",
+    "userEmail": "lunaaa@ejemplo.com"
+  }
+]

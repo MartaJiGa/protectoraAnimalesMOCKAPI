@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/donation/8/user/12",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.quantity == '-2.21')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "donations-putDonation-400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

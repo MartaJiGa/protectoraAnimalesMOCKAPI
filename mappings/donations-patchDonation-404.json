@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PATCH",
+    "url": "/donation/5/splitPayment"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "donations-patchDonation-404.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

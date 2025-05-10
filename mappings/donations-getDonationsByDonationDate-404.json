@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/donations?donationDate=2025-01-14"
+  },
+  "response": {
+    "status": 404,
+    "bodyFileName": "donations-getDonationsByDonationDate-404.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

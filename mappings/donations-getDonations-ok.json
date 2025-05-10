@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/donations"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "donations-getDonations-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

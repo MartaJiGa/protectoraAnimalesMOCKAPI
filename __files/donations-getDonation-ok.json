@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "donationDate": "2025-01-16",
+  "quantity": 50.25,
+  "paymentType": "Tarjeta",
+  "splitPayment": false,
+  "splitPaymentQuantity": 9,
+  "user": {
+    "id": 6,
+    "username": "Vilma565",
+    "name": "Vilma",
+    "surname": "Roca",
+    "dateOfBirth": "1993-09-25",
+    "email": "vilma565@ejemplo.com"
+  }
+}

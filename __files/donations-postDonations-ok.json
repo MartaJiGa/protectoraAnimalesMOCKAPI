@@ -1,0 +1,11 @@
+{
+  "id": 7,
+  "donationDate": "2025-05-10",
+  "quantity": 120.0,
+  "paymentType": "Tarjeta",
+  "splitPayment": true,
+  "splitPaymentQuantity": 6,
+  "userId": 2,
+  "userUsername": "LunaEstrella24",
+  "userEmail": "lunaaa@ejemplo.com"
+}
