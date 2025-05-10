@@ -2,18 +2,7 @@
   "priority": 3,
   "request": {
     "method": "POST",
-    "url": "/locations",
-    "bodyPatterns": [
-      {
-        "matchesJsonPath": "$.address"
-      },
-      {
-        "matchesJsonPath": "$.zipCode"
-      },
-      {
-        "matchesJsonPath": "$.city"
-      }
-    ]
+    "url": "/locations"
   },
   "response": {
     "status": 201,
