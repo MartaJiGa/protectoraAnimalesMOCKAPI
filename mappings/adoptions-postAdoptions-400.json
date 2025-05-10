@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/adoptions/user/.*/animal/.*",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.pickUpTime == '25:00')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "adoptions-postAdoptions-400.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

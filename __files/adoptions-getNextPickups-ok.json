@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "adoptionDate": "2025-01-15",
+    "takeAccessories": false,
+    "pickUpDate": "2025-05-10",
+    "pickUpTime": "15:45",
+    "animalId": 14,
+    "animalIncorporationDate": "2025-01-14",
+    "animalName": "Coco",
+    "animalSpecies": "Perro",
+    "animalLocationId": 4,
+    "animalLocationCity": "Málaga",
+    "userId": 5,
+    "userUsername": "PedroPicapiedra3",
+    "userEmail": "pedroPicapiedra@ejemplo.com"
+  }
+]
