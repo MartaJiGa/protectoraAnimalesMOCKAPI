@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/adoptions"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "adoptions-getAdoptions-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PATCH",
+    "urlPattern": "/adoption/3/pickUp"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "adoptions-patchAdoption-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

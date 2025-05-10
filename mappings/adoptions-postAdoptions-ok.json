@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "POST",
+    "urlPath": "/adoptions/user/7/animal/10"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "adoptions-postAdoptions-ok.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

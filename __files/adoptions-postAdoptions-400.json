@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "La hora de recogida debe tener el formato HH:mm (24 horas)"
+}
