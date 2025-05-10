@@ -8,6 +8,6 @@
     "headers":{
       "Content-Type": "application/json"
     },
-    "bodyFileName": "animals-resourceNotFound-404.json"
+    "bodyFileName": "animals-deleteAnimal-404.json"
   }
 }
