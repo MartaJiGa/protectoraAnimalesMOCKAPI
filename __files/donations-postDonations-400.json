@@ -1,0 +1,4 @@
+{
+  "code": 400,
+  "message": "El tipo de pago debe ser: Tarjeta, Efectivo o Transferencia"
+}
